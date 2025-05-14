@@ -1,0 +1,7 @@
+{
+  "movies": [
+    { "id": "1", "title": "Star Wars", "releaseYear": "1977" },
+    { "id": "2", "title": "Back to the Future", "releaseYear": "1985" },
+    { "id": "3", "title": "The Matrix", "releaseYear": "1999" }
+  ]
+}
